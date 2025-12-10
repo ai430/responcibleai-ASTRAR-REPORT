@@ -1,4 +1,4 @@
-# MAESTRO Analysis of Agentic Workflow
+# MutliAgent Security Risk Threat Analysis Report
 
 ## 1. Mission
 The system is designed to facilitate a collaborative environment where multiple AI agents perform distinct yet interconnected tasks. The primary objective is to gather, analyze, and report data efficiently. The **PlanningAgent** orchestrates the workflow, directing tasks to specialized agents. The **WebSearchAgent** and **Google_Search_Agent** are responsible for retrieving information from the web. The **DataAnalystAgent** processes and analyzes data, while the **Stock_Analysis_Agent** focuses on stock market analysis. Finally, the **Report_Agent** compiles findings into comprehensive reports. This system aims to streamline data-driven decision-making processes by leveraging the capabilities of AI agents.
