@@ -1,4 +1,4 @@
-# Analysis and ThreatModel of Agentic Workflow
+# ASRTAR of Agentic Workflow
 
 ## 1. Mission
 The primary objective of the system is to facilitate intelligent decision-making and problem-solving through a structured workflow involving multiple AI agents. The workflow begins with the `decision_making` node, which assesses user queries and determines whether to respond directly or to initiate a planning phase. The `planning` node generates a detailed plan to address the query, which is executed by the `tools` node that calls necessary tools based on the plan. The `agent` node utilizes a large language model (LLM) to provide answers, and the `judge` node evaluates the quality of the final response. This multi-step process aims to enhance the effectiveness and accuracy of responses, ensuring that user queries are handled efficiently and intelligently.
